@@ -4,7 +4,7 @@
 
 ### What is Danbot Hosting?
 <br>
-We provide tottaly free, reliable and speedy hosting for your needs!
+We provide totally free, reliable and speedy hosting for your needs!
 
 ### What can we Host?:
 1. Minecraft Servers
