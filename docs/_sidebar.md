@@ -1,2 +1,3 @@
 * [Home](/)
-* [How to create a new account](account/new.md)
+* [Getting Started](starting.md)
+* [Configuring/Using Server](server/)
