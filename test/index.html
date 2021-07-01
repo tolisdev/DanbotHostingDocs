@@ -4,14 +4,12 @@
   <meta charset="UTF-8">
   <title>DanBot Hosting - Docs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Unofficial docs for Danbot Hosting">
+  <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
-<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
 <body>
-<nav>
+  <nav>
     <ul>
       <li><a href="default.asp">Home</a></li>
       <li><a href="news.asp">News</a></li>
@@ -33,8 +31,7 @@
       name: '',
       repo: '',
       loadSidebar: true, 
-      readyTransition : true, // default
-      responsiveTables: true,
+      search: 'auto',
       coverpage: true,
       share: {
             reddit: true,
@@ -47,10 +44,16 @@
               color: '#F44336'
             },
         },
+        progress: {
+          position: "top",
+          color: "var(--theme-color,#42b983)",
+          height: "3px",
     }
+    };
 </script>
 <!-- Plugins -->
 <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
 
 
 
