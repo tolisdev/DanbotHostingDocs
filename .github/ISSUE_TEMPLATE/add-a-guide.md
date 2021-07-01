@@ -13,5 +13,5 @@ assignees: tolisdev
 
 # Questions
 
-[ ] I have checked that there isn't any other guide like this
-[ ] I have checked that my suggestion is not violating github TOS
+- [ ] I have checked that there isn't any other guide like this
+- [ ] I have checked that my suggestion is not violating github TOS
